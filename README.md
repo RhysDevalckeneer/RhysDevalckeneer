@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - Full Stack development student
-- [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,node,java,springboot)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,node,java,spring,docker,kotlin,tailwindcss)](https://skillicons.dev)
 
 <div style="display: flex; flex-direction: row; align-items: flex-start; justify-content: flex-start;">
  <img class="img" style="height: auto; width: 45%;" src="https://github-readme-stats.vercel.app/api?username=RhysDevalckeneer2" />
