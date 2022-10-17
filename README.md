@@ -2,7 +2,6 @@
 
 <div style="display: flex; flex-direction: row; align-items: flex-start; justify-content: flex-start;">
  <img class="img" style="height: auto; width: 45%;" src="https://github-readme-stats.vercel.app/api?username=RhysDevalckeneer2" />
- <img class="img" width: 45%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RhysDevalckeneer" />
 </div>
 
 <!--
