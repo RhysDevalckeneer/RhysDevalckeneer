@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-[![Rhys Devalckeneer's GitHub stats](https://github-readme-stats.vercel.app/api?username=RhysDevalckeneer2)](https://github.com/anuraghazra/github-readme-stats)
+[![Rhys Devalckeneer's GitHub stats](https://github-readme-stats.vercel.app/api?username=RhysDevalckeneer2)](https://github.com/RhysDevalckeneer2/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RhysDevalckeneer2)](https://github.com/RhysDevalckeneer2/github-readme-stats)
 <!--
 **RhysDevalckeneer2/RhysDevalckeneer2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
