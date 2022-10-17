@@ -2,9 +2,10 @@
 
 - Full Stack development student
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,java,spring,docker,kotlin,tailwindcss)](https://skillicons.dev)
+
 
 <div style="display: flex; flex-direction: row; align-items: flex-start; justify-content: flex-start;">
+ <div style="width:45%">[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,java,spring,docker,kotlin,tailwindcss&perline=6)](https://skillicons.dev)</div
  <img class="img" style="height: auto; width: 45%;" src="https://github-readme-stats.vercel.app/api?username=RhysDevalckeneer2" />
 </div>
 
