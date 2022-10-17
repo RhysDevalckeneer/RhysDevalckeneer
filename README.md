@@ -4,13 +4,9 @@
 
 
 
-<div style="display: flex; flex-direction: row;">
-  <div style="width:45%;">
-    <img class="img" src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,java,spring,docker,kotlin,tailwindcss&perline=6">
-  </div>
-  <div style="width:45%;">
-   <img class="img" style="height: auto; width: 45%;" src="https://github-readme-stats.vercel.app/api?username=RhysDevalckeneer2" />
-  </div>
+<div>
+  <img align="top" class="img" src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,java,spring,docker,kotlin,tailwindcss&perline=6">
+  <img align="top" class="img" style="height: auto; width: 45%;" src="https://github-readme-stats.vercel.app/api?username=RhysDevalckeneer2" />
 </div>
 
 <!--
