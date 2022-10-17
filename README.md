@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div style="display: flex; flex-direction: row; align-items: flex-start; justify-content: flex-start">
+<div style="display: flex; flex-direction: row; align-items: flex-start; justify-content: flex-start; align-content: flex-start;">
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=RhysDevalckeneer2" />
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RhysDevalckeneer" />
 </div>
