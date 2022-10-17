@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <div style="display: flex; flex-direction: row;">
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=RhysDevalckeneer2)](https://github.com/RhysDevalckeneer2/github-readme-stats" />
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RhysDevalckeneer)](https://github.com/RhysDevalckeneer/github-readme-stats" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=RhysDevalckeneer2" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RhysDevalckeneer" />
 </div>
 
 <!--
